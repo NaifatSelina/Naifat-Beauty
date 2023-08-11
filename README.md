@@ -41,3 +41,33 @@ For this project, I implemented a PostgreSQL database hosted by [ElephantSQL](ht
 
 [Back to top](#contents)
 
+# Models
+
+### Followers
+
+The followers model is designed to contain all relevent information regarding what followers users on the Naifat platform have.
+
+![followersmodel](images/followers%20model.png)
+
+
+### Likes
+The likes model is designed to contain all relevent information regarding what likes posts on the Naifat platform have.
+
+![likesmodel](images/likes%20model.png)
+
+### Posts
+The posts model is designed to contain all relevent information regarding what posts users on the Naifat platform are creating.
+
+![postsmodel](images/posts%20model.png)
+
+### Profiles 
+The profiles model is designed to contain all relevent information regarding what users are being created on the Naifat platform.
+
+![profilesmodel](images/profiles%20model.png)
+
+### Comments
+The comments model is designed to contain all relevent information regarding what comments users on the Naifat platform are leaving under posts.
+
+![commentsmodel](images/comments%20model.png)
+
+[Back to top](#contents)
