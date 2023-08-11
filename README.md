@@ -13,7 +13,6 @@ You can view the back-end README.md here - <a href="https://github.com/NaifatSel
 # Contents
 
 - [**Objective**](#objective)
-- [**Entity Relationship Diagram**](#entity-relationship-diagram)
 - [**Database**](#database)
 - [**Models**](#models)
 - [**Testing**](#testing)
@@ -27,3 +26,18 @@ You can view the back-end README.md here - <a href="https://github.com/NaifatSel
 - [**Credits**](#credits)
   - [**Content**](#content)
   - [**Media**](#media)
+
+# Objective
+
+The main aim of the Djange Rest Framework API is to provide a reliable and secure way for the data used in my [naifat](https://naifat-75fb49666f3a.herokuapp.com/) front-end project to be provided. The aim of this API is to be simple and efficient so the data required for the application can be represented well.
+
+[Back to top](#contents)
+
+# Database
+
+For this project, I implemented a PostgreSQL database hosted by [ElephantSQL](https://www.elephantsql.com/) for the production database.
+
+![PostgreSQL](images/postgresql.png)
+
+[Back to top](#contents)
+
