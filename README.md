@@ -122,3 +122,22 @@ The comments model is designed to contain all relevent information regarding wha
   ![drf_pep25](images/profilesurls.py.png)
   ![drf_pep26](images/profilesviews.py.png)
 
+- ## Bugs Fixed
+
+#### Through my development I encountered some easily fixed bugs, firstly my workspace was throwing an error due to my mistake of putting CLOUDINARYURL before my cloudinary link in my env.py file, I removed this and the eroor was gone.
+ ![bugs1](images/error.png)
+ ![bugs2](images/error%202.png)
+
+
+#### This error occurred due to my settings.py file not included the up to date version of my gitpod url for the workspace- this was fixed by updating the url.
+ ![bugs3](images/deployment%20error.png)
+
+
+ #### In this error I forgot to add a capital P to my Procfile- this was easily fixed.
+ ![bugs4](images/procfileerror.png)
+
+ - ## Bugs Unresolved
+
+  - As far as I'm aware, there are not any unresolved bugs<br />
+
+
