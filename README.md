@@ -537,4 +537,13 @@ You can either choose **Enable Automatic Deploys** or **Deploy Branch**. I chose
 
 [Back to top](#contents)
 
+### Content
+
+This project was created and inspired by following the [Code Institute](https://codeinstitute.net/) DRF-API walkthrough.
+
+I spent some time looking through the official [Django REST Framework Documentation](https://www.django-rest-framework.org/api-guide/permissions/) to also aid my development.
+
+[Back to top](#contents)
+
+
 
