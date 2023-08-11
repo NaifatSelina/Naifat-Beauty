@@ -71,3 +71,54 @@ The comments model is designed to contain all relevent information regarding wha
 ![commentsmodel](images/comments%20model.png)
 
 [Back to top](#contents)
+
+# Testing
+
+- ## Manual Testing
+
+![manualtest](images/manualtests.png)
+
+- ## PEP8 Validation
+
+  I've tested all the files through the [CI PEP8 Linter](https://pep8ci.herokuapp.com/#) and although I found a few errors, I have rectified these and now all files are passing with "All clear, no errors found", as for the settings file for my drf_api application, the errors relating to the lines being too long only refer to long paths that must be on one line.
+
+  ### drf_api
+
+  ![drf_pep1](images/permissions.py.png)
+  ![drf_pep2](images/manage.py.png)
+  ![drf_pep3](images/serializer.py.png)
+  ![drf_pep4](images/settings.py%20.png)
+  ![drf_pep5](images/urls.py.png)
+
+  ### comments
+
+  ![drf_pep6](images/commentmodels.py.png)
+  ![drf_pep7](images/commentserializers.py.png)
+  ![drf_pep8](images/commenturl.py.png)
+  ![drf_pep9](images/commentviews.py.png)
+
+  ### followers
+  ![drf_pep10](images/followersserializers.py.png)
+  ![drf_pep11](images/followersmodels.py.png)
+  ![drf_pep12](images/followersurls.py.png)
+  ![drf_pep13](images/followersviews.py.png)
+
+  ### likes 
+  ![drf_pep14](images/likesserializers.py.png)
+  ![drf_pep15](images/likesmodels.py.png)
+  ![drf_pep16](images/likesurls.py.png)
+  ![drf_pep17](images/likesviews.py.png)
+
+  ### posts
+  ![drf_pep18](images/postsmodels.py.png)
+  ![drf_pep19](images/postsserializers.py.png)
+  ![drf_pep20](images/poststests.py.png)
+  ![drf_pep21](images/postsurls.py.png)
+  ![drf_pep22](images/postsviews.py.png)
+
+  ### profiles
+  ![drf_pep23](images/profilesmodels.py.png)
+  ![drf_pep24](images/profilesserializers.py.png)
+  ![drf_pep25](images/profilesurls.py.png)
+  ![drf_pep26](images/profilesviews.py.png)
+

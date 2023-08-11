@@ -1,7 +1,10 @@
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from .settings import (
-    JWT_AUTH_COOKIE, JWT_AUTH_REFRESH_COOKIE, JWT_AUTH_SAMESITE, JWT_AUTH_SECURE,
+    JWT_AUTH_COOKIE,
+    JWT_AUTH_REFRESH_COOKIE,
+    JWT_AUTH_SAMESITE,
+    JWT_AUTH_SECURE,
 )
 
 
@@ -11,8 +14,9 @@ def root_route(request):
         "message": "This is my drf api app!"
     })
 
+
 # dj-rest-auth logout view fix
-@api_view (['POST'])
+@api_view(['POST'])
 def logout_route(request):
     response = Response()
     response.set_cookie(

@@ -30,13 +30,13 @@ DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.MediaCloudinaryStorage'
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 REST_FRAMEWORK = {
-    'DEFAULT_AUTHENTICATION_CLASSES': [(
+    'DEFAULT_AUTHENTICATION_CLASSES': [
         'rest_framework.authentication.SessionAuthentication'
         if 'DEV' in os.environ
         else 'dj_rest_auth.jwt_auth.JWTCookieAuthentication'
-    )],
-        'DEFAULT_PAGINATION_CLASS':
-        'rest_framework.pagination.PageNumberPagination',
+    ],
+    'DEFAULT_PAGINATION_CLASS':
+    'rest_framework.pagination.PageNumberPagination',
     'PAGE_SIZE': 10,
     'DATETIME_FORMAT': '%d %b %Y',
 }
@@ -65,8 +65,8 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = 'DEV' in os.environ
 
-ALLOWED_HOSTS = ['8000-naifatselina-drfapi-hpoha6v31mo.ws-eu102.gitpod.io', 'yourdomain.com', '127.0.0.1', 'localhost', os.environ.get('ALLOWED_HOST'),]
-
+ALLOWED_HOSTS = ['8000-naifatselina-drfapi-hpoha6v31mo.ws-eu102.gitpod.io',
+                 'yourdomain.com', '127.0.0.1', 'localhost', os.environ.get('ALLOWED_HOST'), ]
 
 
 # Application definition
@@ -111,7 +111,8 @@ MIDDLEWARE = [
 ]
 
 if 'CLIENT_ORIGIN_DEV' in os.environ:
-    extracted_url = re.match(r'^.+-', os.environ.get('CLIENT_ORIGIN_DEV', ''), re.IGNORECASE).group(0)
+    extracted_url = re.match(
+        r'^.+-', os.environ.get('CLIENT_ORIGIN_DEV', ''), re.IGNORECASE).group(0)
     CORS_ALLOWED_ORIGIN_REGEXES = [
         rf"{extracted_url}(eu|us)\d+\w\.gitpod\.io$",
     ]
