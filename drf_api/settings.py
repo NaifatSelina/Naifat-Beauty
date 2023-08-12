@@ -118,7 +118,11 @@ if 'CLIENT_ORIGIN_DEV' in os.environ:
         rf"{extracted_url}(eu|us)\d+\w\.gitpod\.io$",
     ]
 
-CORS_ALLOW_CREDENTIALS = True
+CORS_ALLOW_ALL_ORIGINS = False
+CORS_ALLOWED_ORIGINS = [
+    'https://naifat-75fb49666f3a.herokuapp.com',
+    # Add more allowed origins if needed
+]
 
 
 ROOT_URLCONF = 'drf_api.urls'
