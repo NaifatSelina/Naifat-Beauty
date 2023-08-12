@@ -10,10 +10,11 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
+import re
 from pathlib import Path
 import os
 import dj_database_url
-import re
+
 
 if os.path.exists('env.py'):
     import env
@@ -65,7 +66,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = 'DEV' in os.environ
 
-ALLOWED_HOSTS = ['8000-naifatselina-drfapi-hpoha6v31mo.ws-eu102.gitpod.io',
+ALLOWED_HOSTS = ['3000-naifatselina-naifat-vq9zppz29kp.ws-eu103.gitpod.io', 
                  'yourdomain.com', '127.0.0.1', 'localhost', os.environ.get('ALLOWED_HOST'), ]
 
 
