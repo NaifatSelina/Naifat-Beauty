@@ -68,6 +68,15 @@ figure {
   display: inline-block;
 }
 
+/* popular reviewers text */
+.popular {
+  font-size: 18px;
+  color: #000000;
+  border-bottom: 0.5px solid rgb(191, 153, 190);
+  padding-bottom: 10px;
+  text-align: center;
+}
+
 /* scrollbar */
 *::-webkit-scrollbar {
   width: 5px;
