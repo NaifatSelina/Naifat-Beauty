@@ -795,6 +795,46 @@ Users will be able to comment and interact on posts. For instance, agreeing with
 
  - Having different streams acting as 'channels' which users can see all things such as posts, users, events and news pertaaining to a certain topic such as hair products would be fun and beneficial.
 
+ [Back to top](#contents)
+
+ # Technologies Used
+
+## Languages
+
+- [JavaScript](https://www.javascript.com/).
+- [HTML5](https://en.wikipedia.org/wiki/HTML5).
+- [CSS3](https://en.wikipedia.org/wiki/CSS).
+
+## Libraries and Frameworks
+
+- [React](https://reactjs.org/) - Advanced front-end JavaScript Library.
+- [Bootstrap](https://getbootstrap.com/) - CSS Framework.
+- [Google Fonts](https://fonts.google.com/).
+
+## NPM Packages / Dependencies
+
+- [axios](https://www.npmjs.com/package/axios).
+- [react-bootstrap](https://react-bootstrap.github.io/).
+- [react-dom](https://reactjs.org/docs/react-dom.html).
+- [react-infinite-scroll-component](https://www.npmjs.com/package/react-infinite-scroll-component).
+- [react-router-dom](https://www.npmjs.com/package/react-router-dom).
+- [react-scripts](https://www.npmjs.com/package/react-scripts).
+
+## Other Tools
+
+- [a11y](https://color.a11y.com/Contrast/) - Used to test the contrast and accessibility.
+- [Favicon](https://favicon.io/) - Used to create the favicon.
+- [GitPod](https://www.gitpod.io/) - Used to create the website.
+- [GitHub](https://github.com/) - Used to host and deploy the website as well as manage the project.
+- [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) - Used to test responsiveness and debug.
+- [Responsive Design Checker](https://www.responsivedesignchecker.com/) - Used to test responsiveness.
+- [Am I Responsive](https://ui.dev/amiresponsive) - Used to further check responsivity.
+- [Figma](https://www.figma.com/) - Used to create design wireframes.
+- [Heroku](https://dashboard.heroku.com) - Used  for deployment.
+- [JSHint Validation](https://jshint.com/) - Used to validate JavaScript code.
+
+[Back to top](#contents)
+
 # Naifat 2023.
 
 
