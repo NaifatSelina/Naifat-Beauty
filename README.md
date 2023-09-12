@@ -781,6 +781,19 @@ Users will be able to comment and interact on posts. For instance, agreeing with
 
 [Back to top](#contents)
 
+- ## Future Features
+
+ ### Events
+
+ - I believe having events would be a great future feature to have, I would begin with virtual events with topics such as makeup, best deals this month or bathtime essentials, where individuals can come together and share their knowledge, network and share positivity. 
+
+ ### News
+
+ - Having a page where users can be kept up to date with all the recent news regarding beauty and eventually fashion too would be a create way to expand the application past just posts- almost like a 'trending' page for all things beauty.
+
+ ### Streams
+
+ - Having different streams acting as 'channels' which users can see all things such as posts, users, events and news pertaaining to a certain topic such as hair products would be fun and beneficial.
 
 # Naifat 2023.
 
