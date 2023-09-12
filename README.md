@@ -683,6 +683,49 @@ This project was created using React which allows for the re-use of components t
 
   ![Milestones](../drf-api/images/frontendimgs/milestones.png)
 
+  ## Permissions
+
+
+### Logged Out User
+
+A logged out user will have access to the following
+
+- Home Page
+- Profile Pages
+- Sign In Page
+- Sign Out Page
+- Comments Visability
+- Popular Reviewers Visibility
+- Posts
+- Likes Visibility
+
+### Logged In User
+
+A logged in user will have access to the following
+
+**_Text highlighted in bold indicates additional functionality over a logged out user_**
+
+- Home Page
+- Profile Pages
+- Sign In Page
+- Sign Out Page
+- Comments Visability
+- Popular Reviewers Visibility
+- Posts
+- Likes Visibility
+- **Ability to sign out**
+- **Create a Post**
+- **Ability to like and unlike a Post**
+- **Ability to remove their Post**
+- **Ability to create a Comment**
+- **Ability to edit their Own Comment**
+- **Ability to delete their own comment**
+- **Ability to view their profile page**
+- **Ability to update their profile information**
+- **Ability to edit their Post**
+- **Ability to follow and unfollow other users**
+
+
 
 # Naifat 2023.
 
