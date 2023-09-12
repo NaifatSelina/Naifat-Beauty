@@ -615,7 +615,29 @@ You can view this project from *<a href="https://github.com/NaifatSelina/naifat"
 
 [Back to top](#contents)
 
+## Design Prototype
 
+During the design wireframes process I decided to use [Figma](https://www.figma.com/) in my project. Figma quickly and efficiently allows me to create outlines for how I would like my project to look. I was able to create a rough colour scheme that I knew I wanted to use, something clean, fresh and timeless. The simplistic layout and structure of each of the design wireframes is something which I wanted to keep in the final version of the app as I knew I needed the beauty app to be easy to navigate to heighten accessability. My audience for this app was people of all technical capabilities, as everyone should be able to come together to learn and share their knowledge and learn about the beauty services and products they are indulging in- it was a necessity that the structure remained simple.
+
+<br>
+<br>
+<br>
+
+![Figma Design](../drf-api/images/frontendimgs/CreatePostWF.png)
+
+![Figma Design](../drf-api/images/frontendimgs/HomePageWF.png)
+
+![Figma Design](../drf-api/images/frontendimgs/ProfilePageWF.png)
+
+![Figma Design](../drf-api/images/frontendimgs/SignedInHomePageWF.png)
+
+![Figma Design](../drf-api/images/frontendimgs/SignInWF.png)
+
+![Figma Design](../drf-api/images/frontendimgs/SignUpWF.png)
+
+<br />
+
+[Back to top](#contents)
 
 
 
