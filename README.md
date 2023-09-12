@@ -554,8 +554,8 @@ You can view the live site here - <a href="https://drf-api-app-65d9b6a619df.hero
   - [Project Goals](#project-goals)
   - [User Stories](#user-stories)
   - [Design Prototype](#design-prototype)
-  - [Design Choices](#design-choices)
-  - [Typography](#typography)
+  - [Reasons For Design](#reasons-for-design)
+  - [Fonts](#fonts)
   - [Colour Scheme](#colour-scheme)
   - [Project Management](#project-management)
 - [**Permissions**](#permissions)
@@ -563,8 +563,6 @@ You can view the live site here - <a href="https://drf-api-app-65d9b6a619df.hero
   - [Logged In User](#logged-in-user)
 - [**Existing Features**](#existing-features)
   - [Home Page](#home-page)
-  - [Responsive Navigation Bar](#responsive-navigation-bar)
-  - [Search Bar](#search-bar)
   - [Sign In Page](#sign-in-page)
   - [Sign Up Page](#sign-up-page)
   - [Profile Page](#profile-page)
@@ -572,7 +570,6 @@ You can view the live site here - <a href="https://drf-api-app-65d9b6a619df.hero
   - [Create Post](#create-post)
   - [Edit Post](#edit-post)
   - [Comments](#comments)
-  - [Popular Reviewers](#popular-reviewers)
 - [**Future Features**](#future-features)
   - [Events](#events)
   - [News](#news)
@@ -665,6 +662,8 @@ This project was created using React which allows for the re-use of components t
 
   <br />
 
+ [Back to top](#contents)
+
   ## Project Management
 
 - ### GitHub Project Board
@@ -685,7 +684,7 @@ This project was created using React which allows for the re-use of components t
 
   ## Permissions
 
-
+  [Back to top](#contents)
 ### Logged Out User
 
 A logged out user will have access to the following
@@ -701,9 +700,7 @@ A logged out user will have access to the following
 
 ### Logged In User
 
-A logged in user will have access to the following
-
-**_Text highlighted in bold indicates additional functionality over a logged out user_**
+A logged in user will have access to the following:
 
 - Home Page
 - Profile Pages
@@ -725,6 +722,64 @@ A logged in user will have access to the following
 - **Ability to edit their Post**
 - **Ability to follow and unfollow other users**
 
+[Back to top](#contents)
+
+## Existing Features
+
+
+- ### Home Page
+
+When the user arrives onto the application they are greeted with the refreshing and simply structured homepage. It was important that the structure didn't drastically change as the user navigates through the app for lack of confusion, ease of use and general accessibility needs. The user can expect to see a nav bar at fixed to the top of the page with a logo and a nav bar on the left in which they can navigate to refresh the home page or navigate the the sign in or sign up page. Underneath they can search for a post or just begin to scroll down their feed and see the most recent posts if they are just aiming to browse. On the left hand side of the screen users can see popular reviewers who are ranked by how many followers they have aquired. Users can select these users and see their specific posts, bios and follower counts if they want to browse the most popular reviewers on the platform or even if they aim to be up there themselves! The users can view full posts and likes and comments on posts however they are not able to create posts, like or comment themselves. 
+
+On smaller devices the popular reviewers section will float to the top of the feed and the nav bar will collapse into hamburger menu fashion for responsivity.
+
+![Home Page](../drf-api/images/frontendimgs/Home%20Page.png)
+![Responsive Home Page](../drf-api/images/frontendimgs/responsive%20nav.png)
+
+
+- ### Sign In Page
+
+Users that have already signed up can sign in through the simple form presented. As stated before, that aim of the platform is supposed to be easy and simple to use as everyone should be able to contribute and access beauty knowledge. I decided to add a simple, fresh and clean image to compliment the webpage and that compliments the colour scheme. Users that accidently navigate to this page can click the text link below the sign in for the urges users to sign up to quickly navigate the the sign up page.
+
+![Sign In Page](../drf-api/images/frontendimgs/Sign-In%20Page.png)
+
+- ### Sign Up Page
+
+Users that wish to sign up can use this simple form to sign up, I also decided to add a simple, fresh and clean image to compliment the webpage and that compliments the colour scheme to the sign up page too.
+
+![Sign Up Page](../drf-api/images/frontendimgs/Sign-Up%20Page.png)
+
+- ### Profile Page
+
+I kept the profile page simple too, users signed in and not signed in are able to see individuals profiles, this will include the profile owners name, chosen profile photo, number of posts, followers, following and their bio. Underneath this, users can expect to see posts made by the individual. The popular reviews section remains on the side of the page. Logged in users are able to edit their profile.
+
+![Profile Page](../drf-api/images/frontendimgs/Profile%20Page.png)
+![Edit Profile](../drf-api/images/frontendimgs/Edit%20Profile.png)
+
+- ### Signed In Home Page
+
+The differences seen here compared to the logged out user are the ability to like and comment on a post in addition to being able to follow and unfollow users. The ability to create a post will also appear in the nav bar.
+![Signed In Home Page](../drf-api/images/frontendimgs/Signed%20In%20Home%20Page.png)
+
+- ### Create Post
+
+Logged in users are able to create a post by navigating the the create post text in the nav bar, they'll be able to add a title, content and photo.
+
+![Create Post](../drf-api/images/frontendimgs/Create%20Post.png)
+
+- ### Edit Post
+
+Users will be able to edit their posts.
+
+![Edit Post](../drf-api/images/frontendimgs/Edit%20Post.png)
+
+- ### Comments
+
+Users will be able to comment and interact on posts. For instance, agreeing with reviews, stating if they've had alternative experiences or just simply giving further insight into the products or services being posted. Users can also like to show their support of simply unlike if they change their mind.
+
+![Comments](../drf-api/images/frontendimgs/Signed%20In%20Post%202.png)
+
+[Back to top](#contents)
 
 
 # Naifat 2023.
