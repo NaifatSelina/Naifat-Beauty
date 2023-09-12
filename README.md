@@ -835,6 +835,69 @@ Users will be able to comment and interact on posts. For instance, agreeing with
 
 [Back to top](#contents)
 
+# Testing
+
+- ## Code Validation
+
+  ![JSX Compiler](../drf-api/images/frontendimgs/code%20testing.png)
+
+- ## Lighthouse Testing
+
+I am generally okay with the lighthouse results for each page however in future updates I will aim to increase the lighthouse performance score on mobiles.
+
+![Lighthouse 1](../drf-api/images/frontendimgs/lighthouse%201.png)
+
+![Lighthouse 2](../drf-api/images/frontendimgs/lighthouse%202.png)
+
+
+- ## Accessibility Testing
+
+  - To ensure the webpage included suitable colour contrasts I used [a11y](https://color.a11y.com/Contrast/) to test if there was any conflicting contrast issues with the colours and found no errors.
+
+  ![a11y](../drf-api/images/frontendimgs/a11y.png)
+
+  <br /><br />
+
+- ## Responsiveness Testing
+
+  I've conducted responsive testing for desktop, tablet and mobile devices to ensure responsivity.
+  <br /><br />
+
+  ![Responsive Testing](../drf-api/images/frontendimgs/responsivedesignchecker.png)
+
+
+  <br />
+
+  - ## Manual Testing
+
+  - Ensure the logo redirects the home page.
+  - Ensure the navigation links work.
+  - Ensure the navigation bar collapses into hamburger menu on smaller screen.
+  - Ensure Users are able to sign in and sign up.
+  - Ensure users can comment and like on posts.
+  - Ensure comments and posts can be seen and added to.
+  - Ensure comments and posts are displayed by latest first.
+  - Ensure users can view their profile.
+  - Ensure users can view others profiles.
+  - Ensure follower, post, likes and following counts go up as they inclease.
+  - Ensure all signed in users can follow and unfollow eachother.
+  - Ensure users can see popular profiles.
+  - Ensure users can edit their posts and profiles.
+  - Ensure users can create a post with an image, title and content.
+  - Ensure users can delete comments and posts.
+  - Ensure users can unfollow eachother and unlike posts.
+  - Ensure users can search for posts.
+
+  - ## Browser Compatibility
+
+  - All the above manual tests have been completed in the following desktop browsers
+    - Google Chrome
+    - Safari
+
+  <br />
+
+[Back to top](#contents)
+
 # Naifat 2023.
 
 
