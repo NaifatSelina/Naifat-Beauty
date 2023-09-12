@@ -639,6 +639,14 @@ During the design wireframes process I decided to use [Figma](https://www.figma.
 
 [Back to top](#contents)
 
+## Components
+
+This project was created using React which allows for the re-use of components throughout the application. A react component is able to perform a multitude of operations such as render elements on a page, display data, handle events/user interactions etc.<br />
+
+![Components](../drf-api/images/frontendimgs/components.png)
+
+<br />
+
 
 
 
