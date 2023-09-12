@@ -591,6 +591,19 @@ For my fifth and final project, I intend to create an online blog still social p
 
 [Back to top](#contents)
 
+## Project Goals
+
+1 - Build a project to help users gain knowledge on different beauty products <br>
+2 - Ensure the project is fully responsive to cater for all user device screen sizes <br>
+3 - Design an intuitive layout that promotes a positive user experience <br>
+4 - Implement a theme that compliments the project <br>
+5 - Allow users to quickly search for a post <br>
+6 - Allow users to filter posts <br>
+7 - Give the users the ability to edit and remove a post <br>
+8 - Give the users the ability to view who the 'popular reviewers' are <br>
+9 - Give the users the ability to create/edit and delete a comment on a post <br>
+10 - Require users to have an account to access additional features <br>
+
 
 # Naifat 2023.
 
