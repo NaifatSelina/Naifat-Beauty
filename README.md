@@ -665,6 +665,24 @@ This project was created using React which allows for the re-use of components t
 
   <br />
 
+  ## Project Management
+
+- ### GitHub Project Board
+
+  To manage this project I utilised the project management features available of GitHub. I created a Kanban board so I could organise and manage my issues/tasks for the project and monitor my progress as I built the application eventually moving each task along to the 'done' section of the kanban board. This also meant I was able to use Agile Methodology to help plan and execute the project.<br />
+
+  You can view this project board from *<a href="https://github.com/NaifatSelina/naifat" target="_blank" rel="noopener">this</a>* repository as it was create prior to combining my front-end and back-end workspaces.
+
+  ![Project Board](../drf-api/images/frontendimgs/kanban.png)
+
+  - ### GitHub Milestones
+
+  Furthermore, when adding my user stories, I decided to take advantage of the milestone feature so I could manage the progress of my user stories required for release as I completed the project. I treated every 3 user stories as a sprint and would spend an allocated amount of time on each. This also acted as motivation as I was able to see the bar progress as I did.
+
+  You can view this milestone from *<a href="https://github.com/NaifatSelina/naifat" target="_blank" rel="noopener">this</a>* repository as it was create prior to combining my front-end and back-end workspaces.
+
+  ![Milestones](../drf-api/images/frontendimgs/milestones.png)
+
 
 # Naifat 2023.
 
