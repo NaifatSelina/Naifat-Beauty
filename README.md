@@ -898,6 +898,30 @@ I am generally okay with the lighthouse results for each page however in future 
 
 [Back to top](#contents)
 
+  - ## Bugs Fixed 
+
+  ### nav bar
+  
+  - I ran into an issue of the nav bar floating over the feed of the page, I fixed this with some simple css added to the nav bar to ensure the main content of the page always flows under it.
+
+  ### lack of env.py
+
+  - At a point in my development my application was having multiple errors as my env.py was not in the root directory, this was fixed by me simply moving the file.
+
+  ### CORS issue
+
+  - A very promonent issue I was getting for quite a while was a CORS error which was being thrown when I would try and run my application, I would see this via Chrome Dev Tools. This was prior to the combination of my workspaces, it was an issue in my API apps settings file, I fixed the CORS error by combining my workspaces.
+
+  - ## Bugs Unresolved
+
+  ### home page refresh
+
+  - Due to a potential cache issue with my browser, after using the webpage for a while, when trying to navigate the nav bar, the sign in and sign up links refresh the user to the home page. This has been extensively on my radar and I have attempted to find many avenues to fix this such as contacting tutors, slack, youtube and a good few Google searches. I hope to fix this error in the future. I don't believe this happens outside of my particular browser on my device however.
+
+  [Back to top](#contents)
+
+
+
 # Naifat 2023.
 
 
