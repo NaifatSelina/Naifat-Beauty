@@ -1,14 +1,8 @@
 # **_Naifat - Django REST Framework API_**
 
-The repository you are viewing is for the back-end REST API used for my front-end React project, [naifat](https://naifat-75fb49666f3a.herokuapp.com/).
+The repository you are viewing is for the back-end REST API and my front-end React project will be detailed underneath, [Naifat](https://drf-api-app-65d9b6a619df.herokuapp.com/).
 
-You can view the live site here - <a href="https://naifat-75fb49666f3a.herokuapp.com/" target="_blank" rel="noopener">Naifat</a>
-
-You can view the live API here - <a href="https://drf-api-app-65d9b6a619df.herokuapp.com/" target="_blank" rel="noopener">Naifat DRF API</a>
-
-You can view the front-end README.md here - <a href="https://github.com/NaifatSelina/naifat" target="_blank" rel="noopener">Naifat Front-End README</a>
-
-You can view the back-end README.md here - <a href="https://github.com/NaifatSelina/drf-api" target="_blank" rel="noopener">Naifat Back-End README</a>
+You can view the live site here - <a href="https://drf-api-app-65d9b6a619df.herokuapp.com/" target="_blank" rel="noopener">Naifat</a>
 
 # Contents
 
@@ -544,6 +538,57 @@ This project was created and inspired by following the [Code Institute](https://
 I spent some time looking through the official [Django REST Framework Documentation](https://www.django-rest-framework.org/api-guide/permissions/) to also aid my development.
 
 [Back to top](#contents)
+
+# **_Naifat_**
+
+This part of the repository you are viewing is for the front-end of the app [Naifat](https://drf-api-app-65d9b6a619df.herokuapp.com/).
+
+You can view the live site here - <a href="https://drf-api-app-65d9b6a619df.herokuapp.com/" target="_blank" rel="noopener">Naifat</a>.
+
+# Contents
+
+- [**Objective**](#objective)
+- [**User Experience UX**](#user-experience-ux)
+  - [Project Goals](#project-goals)
+  - [User Stories](#user-stories)
+  - [Design Prototype](#design-prototype)
+  - [Design Choices](#design-choices)
+  - [Typography](#typography)
+  - [Colour Scheme](#colour-scheme)
+  - [Project Management](#project-management)
+- [**Permissions**](#permissions)
+  - [Logged Out User](#logged-out-user)
+  - [Logged In User](#logged-in-user)
+- [**Existing Features**](#existing-features)
+  - [Informative Splash Page](#informative-splash-page)
+  - [Responsive Navigation Bar](#responsive-navigation-bar)
+  - [Search Bar](#search-bar)
+  - [Role Icons](#role-icons)
+  - [Champion Card](#champion-card)
+  - [Account Creation](#account-creation)
+  - [Profile Page](#profile-page)
+  - [Page Not Found](#page-not-found)
+  - [Champion Create](#champion-create)
+  - [Champion Edit](#champion-edit)
+  - [Champion Delete](#champion-delete)
+  - [Champion Information Page](#champion-information-page)
+  - [Comments](#comments)
+  - [Upvoting](#upvoting)
+  - [Leaderboard](#leaderboard)
+  - [Notifications](#notifications)
+- [**Future Features**](#future-features)
+  - [Events](#events)
+  - [News](#news)
+  - [Streams](#streams)
+- [**Technologies Used**](#technologies-used)
+- [**Testing**](#testing)
+- [**Deployment To Heroku**](#deployment-to-heroku)
+- [**Credits**](#credits)
+  - [**Content**](#content)
+  - [**Media**](#media)
+- [**Acknowledgments**](#acknowledgements)
+
+
 
 # Naifat 2023.
 
