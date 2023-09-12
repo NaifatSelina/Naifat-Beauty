@@ -648,6 +648,22 @@ This project was created using React which allows for the re-use of components t
 <br />
 
 
+## Reasons for Design 
+### Fonts 
+- For consistency the main chosen font I decided to use was Playfair Display, with sans-serif as the fall-back font to be used if Playfair Display cannot be loaded by the browser. I gravitated towards this font as it is a font that maintains a professional and sleek look that is easily readable to heighten accessibility and ease of use of the platform. 
+- Across the webpage, to create a dynamic feel, I used a range of font-weights. 
+
+### Colour Scheme 
+- The colour scheme chosen for application is a balance of fresh, simple and clean. The main background colours of stone and sage provide a fresh feel, with the black and baby pink accent colours providing pretty and a welcoming feel. 
+- More so, the use of black text effectively complimented the lighter colour choices as it created a good contrast. Combined, the colours perfectly corresponded with the desired overall feel of the platform and enhanced user experience with the black and stone colours standing out completely from the white and sage background colours used throughout the platform.
+
+  ![Colour Scheme](../drf-api/images/frontendimgs/colour1.png)
+  ![Colour Scheme](../drf-api/images/frontendimgs/colour2.png)
+  ![Colour Scheme](../drf-api/images/frontendimgs/colour3.png)
+  ![Colour Scheme](../drf-api/images/frontendimgs/colour4.png)
+  ![Colour Scheme](../drf-api/images/frontendimgs/colour5.png)
+
+  <br />
 
 
 # Naifat 2023.
