@@ -583,6 +583,11 @@ You can view the live site here - <a href="https://drf-api-app-65d9b6a619df.hero
   - [**Media**](#media)
 - [**Acknowledgments**](#acknowledgements)
 
+# Objective
+
+For my fifth and final project, I intend to create an online blog still social platform where many beauty enthusiasts can come together to share their knowledge and passion on all things, bath, beauty and glamour. I aim to demonstrate a good understanding in creating a website using React JS for the front end and Django REST framework for the backend whilst adhering to agile methodologies.
+
+[Back to top](#contents)
 
 
 # Naifat 2023.
