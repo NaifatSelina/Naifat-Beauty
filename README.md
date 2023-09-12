@@ -920,6 +920,51 @@ I am generally okay with the lighthouse results for each page however in future 
 
   [Back to top](#contents)
 
+  # Deployment To Heroku
+
+The project was deployed to [Heroku](https://www.heroku.com). The deployment process is as follows:
+
+Firstly we need to create a new repository in [GitHub](https://github.com/) where our project files will be located
+
+- Navigate to [GitHub](https://github.com/) and create a new repository.
+
+Once you've created your new empty repository we need to initialize this project as a [React](https://reactjs.org/) project.
+
+- Open up a new terminal within the project
+- Type in **npx create-react-app . --use-npm**
+
+Once completed, you can test your new [React](https://reactjs.org/) application is working by typing **npm start** in the terminal.
+
+Now we can push our new project to our [GitHub](https://github.com/) repository.
+
+- **git add .**
+- **git commit -m "Initial commit"**
+- **git push**
+
+Now it's time to deploy our new project live for everyone to see on [Heroku](https://www.heroku.com).
+
+- Navigate to [Heroku](https://www.heroku.com)
+- Click **New app**
+- Fill in the relevant information
+- Click **Create app** once you are happy
+
+Now we need to link our [Heroku](https://www.heroku.com) application with our [GitHub](https://github.com/) project.
+
+- Click the **Deploy** tab
+- Choose **GitHub**
+- Search for your repository
+- Once found, click **Connect**
+
+Finally, we can deploy our connected projected for everyone to see.
+
+You can either choose **Enable Automatic Deploys** or **Deploy Branch**.
+
+- Click **Deploy Branch** and wait for it to build.
+
+Your new [React](https://reactjs.org/) application is now successfully deployed to [Heroku](https://www.heroku.com)
+
+[Back to top](#contents)
+
 
 
 # Naifat 2023.
