@@ -545,6 +545,8 @@ This part of the repository you are viewing is for the front-end of the app [Nai
 
 You can view the live site here - <a href="https://drf-api-app-65d9b6a619df.herokuapp.com/" target="_blank" rel="noopener">Naifat</a>.
 
+![Naifat responsive design](../drf-api/images/frontendimgs/amires.png)
+
 # Contents
 
 - [**Objective**](#objective)
