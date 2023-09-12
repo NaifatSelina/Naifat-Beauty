@@ -604,6 +604,21 @@ For my fifth and final project, I intend to create an online blog still social p
 9 - Give the users the ability to create/edit and delete a comment on a post <br>
 10 - Require users to have an account to access additional features <br>
 
+## User Stories
+
+My user stories are in the project of my respository where I worked on the front end of my app before combining my workspaces.
+
+You can view this project from *<a href="https://github.com/NaifatSelina/naifat" target="_blank" rel="noopener">this</a>* repository.
+
+![User Stories](../drf-api/images/frontendimgs/user%20stories%201.png)
+![User Stories](../drf-api/images/frontendimgs/user%20stories%202.png)
+
+[Back to top](#contents)
+
+
+
+
+
 
 # Naifat 2023.
 
