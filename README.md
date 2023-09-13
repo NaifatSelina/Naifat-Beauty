@@ -1,6 +1,6 @@
 # **_Naifat - Django REST Framework API_**
 
-The repository you are viewing is for the back-end REST API and my front-end React project will be detailed underneath, [Naifat](https://drf-api-app-65d9b6a619df.herokuapp.com/).
+The repository you are viewing is for both the back-end REST API and my front-end React project will be detailed underneath.
 
 You can view the live site here - <a href="https://drf-api-app-65d9b6a619df.herokuapp.com/" target="_blank" rel="noopener">Naifat</a>
 
