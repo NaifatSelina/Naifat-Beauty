@@ -810,6 +810,7 @@ Users will be able to comment and interact on posts. For instance, agreeing with
 - [React](https://reactjs.org/) - Advanced front-end JavaScript Library.
 - [Bootstrap](https://getbootstrap.com/) - CSS Framework.
 - [Google Fonts](https://fonts.google.com/).
+- [Font Awesome](https://fontawesome.com/).
 
 ## NPM Packages / Dependencies
 
@@ -1010,6 +1011,25 @@ As I combined my workspace I had to do some extra steps to deploy the **combined
 
 **Your combined workspace will now be deployed.**
 
+[Back to top](#contents)
+
+# Credits
+
+### Content
+
+This project was inspired by the [Code Institute](https://codeinstitute.net/) walk-through **Moments** project and has been modified.
+
+The files which have been created and used for the League Hub project that have been copied from the **Moments** walkthrough project were the following
+
+### Media
+
+The images seen on the webpage are all from [Pexels](https://www.pexels.com/), a website of the best free stock photos, royalty free images & videos shared by creators.
+
+All icons used were provided by [Font Awesome](https://fontawesome.com/).
+
+My logo was created using [Wi Logo Maker](https://www.wix.com/createlogo6/logo-maker?utm_source=google&utm_medium=cpc&utm_campaign=19596718059^152297742944&experiment_id=logo%20maker^e^645976108706^&gclid=Cj0KCQjwmICoBhDxARIsABXkXlJVFkbBFwBpCJwwD2KtNHADFiiIOqt2BiXSN4m90U7vwQw6kiwZ1NAaAlZyEALw_wcB) and turned into a useable logo using [Favicon](https://favicon.io/).
+
+[Back to top](#contents)
 
 
 
