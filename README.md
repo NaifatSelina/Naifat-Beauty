@@ -965,6 +965,53 @@ Your new [React](https://reactjs.org/) application is now successfully deployed 
 
 [Back to top](#contents)
 
+- ## Combined Workspace Deployment
+
+As I combined my workspace I had to do some extra steps to deploy the **combined workspace**.
+
+**Firstly you want to set up WhiteNoise for static files.**
+
+- Install Whitenoise and add this dependency to your requirements.txt file.
+- Create a new folder called staticfiles in root directory.
+- Ensure installed apps are in correct order in settings.py file [cloudinary_storage should be under staticfiles app].
+- Add WhiteNoise to MIDDLEWARE list.
+- Add DIRS key in templates list so Django and WhiteNoise to know where to look for Reacts index.html file.
+- Add STATIC_ROOT and WHITENOISE_ROOT to static files section of settings.py file.
+
+**Next, we will need to configure the route to allow the React front-end to be viewed.**
+
+- Go to urls.py: 
+- Remove root_route view from the.views imports.
+- Import TemplateView from Django views.
+- Remove root_route code from url_patterns and add code pointing it to index.html.
+- Add 404 handler to bottom of urls.py file.
+- Add api/ to all but top two url paths.
+- In axiosDefault.js comment back the axios.defaults.baseURL and set it to "/api".
+
+**Following that we want to combine both Django and React static files and compile them.**
+
+- Collect the admin and DRF staticfiles to the empty staticfiles directory you created earlier by running python3 manage.py collectstatic.
+- Cd into the frontend directory [ cd frontend ].
+- Run the command to compile and move the React files [ npm run build && mv build ../].staticfiles/.
+- In the root directory of your project, create a new file named runtime.txt , inside the runtime.txt, add the following line: python-3.9.16.
+
+**Once this is done we have to test that the builds for both parts of the project are running together.**
+
+- Ensure all running servers are terminated. In any running terminals press Ctrl+C.
+- In your env.py file, ensure that both the DEBUG and DEV environment variables are commented out.
+- Run the Django server, in the terminal [python3 manage.py runserver].
+
+**Now for the final steps to deploy to Heroku.**
+
+-Log into Heroku account and access the dashboard for your DRF application.
+-Go to Settings and open Config Vars.
+-Ensure your application has an ALLOWED_HOST key, set to the URL of your combined project, remove the https:// at the beginning and remove the trailing slash at the end.
+-Ensure your application has a CLIENT_ORGIN key and set it to the URL of your combined project. This time keep the https:// at the beginning but remove the trailing slash at the end.
+
+**Your combined workspace will now be deployed.**
+
+
+
 
 
 # Naifat 2023.
