@@ -607,8 +607,8 @@ My user stories are in the project of my respository where I worked on the front
 
 You can view this project from *<a href="https://github.com/NaifatSelina/naifat" target="_blank" rel="noopener">this</a>* repository.
 
-![User Stories](../drf-api/images/frontendimgs/user%20stories%201.png)
-![User Stories](../drf-api/images/frontendimgs/user%20stories%202.png)
+![User Stories](images/frontendimgs/user%20stories%201.png)
+![User Stories](images/frontendimgs/user%20stories%202.png)
 
 [Back to top](#contents)
 
@@ -620,17 +620,17 @@ During the design wireframes process I decided to use [Figma](https://www.figma.
 <br>
 <br>
 
-![Figma Design](../drf-api/images/frontendimgs/CreatePostWF.png)
+![Figma Design](images/frontendimgs/CreatePostWF.png)
 
-![Figma Design](../drf-api/images/frontendimgs/HomePageWF.png)
+![Figma Design](images/frontendimgs/HomePageWF.png)
 
-![Figma Design](../drf-api/images/frontendimgs/ProfilePageWF.png)
+![Figma Design](images/frontendimgs/ProfilePageWF.png)
 
-![Figma Design](../drf-api/images/frontendimgs/SignedInHomePageWF.png)
+![Figma Design](images/frontendimgs/SignedInHomePageWF.png)
 
-![Figma Design](../drf-api/images/frontendimgs/SignInWF.png)
+![Figma Design](images/frontendimgs/SignInWF.png)
 
-![Figma Design](../drf-api/images/frontendimgs/SignUpWF.png)
+![Figma Design](images/frontendimgs/SignUpWF.png)
 
 <br />
 
@@ -640,7 +640,7 @@ During the design wireframes process I decided to use [Figma](https://www.figma.
 
 This project was created using React which allows for the re-use of components throughout the application. A react component is able to perform a multitude of operations such as render elements on a page, display data, handle events/user interactions etc.<br />
 
-![Components](../drf-api/images/frontendimgs/components.png)
+![Components](images/frontendimgs/components.png)
 
 <br />
 
@@ -654,11 +654,11 @@ This project was created using React which allows for the re-use of components t
 - The colour scheme chosen for application is a balance of fresh, simple and clean. The main background colours of stone and sage provide a fresh feel, with the black and baby pink accent colours providing pretty and a welcoming feel. 
 - More so, the use of black text effectively complimented the lighter colour choices as it created a good contrast. Combined, the colours perfectly corresponded with the desired overall feel of the platform and enhanced user experience with the black and stone colours standing out completely from the white and sage background colours used throughout the platform.
 
-  ![Colour Scheme](../drf-api/images/frontendimgs/colour1.png)
-  ![Colour Scheme](../drf-api/images/frontendimgs/colour2.png)
-  ![Colour Scheme](../drf-api/images/frontendimgs/colour3.png)
-  ![Colour Scheme](../drf-api/images/frontendimgs/colour4.png)
-  ![Colour Scheme](../drf-api/images/frontendimgs/colour5.png)
+  ![Colour Scheme](images/frontendimgs/colour1.png)
+  ![Colour Scheme](images/frontendimgs/colour2.png)
+  ![Colour Scheme](images/frontendimgs/colour3.png)
+  ![Colour Scheme](images/frontendimgs/colour4.png)
+  ![Colour Scheme](images/frontendimgs/colour5.png)
 
   <br />
 
@@ -672,7 +672,7 @@ This project was created using React which allows for the re-use of components t
 
   You can view this project board from *<a href="https://github.com/NaifatSelina/naifat" target="_blank" rel="noopener">this</a>* repository as it was create prior to combining my front-end and back-end workspaces.
 
-  ![Project Board](../drf-api/images/frontendimgs/kanban.png)
+  ![Project Board](images/frontendimgs/kanban.png)
 
   - ### GitHub Milestones
 
@@ -680,7 +680,7 @@ This project was created using React which allows for the re-use of components t
 
   You can view this milestone from *<a href="https://github.com/NaifatSelina/naifat" target="_blank" rel="noopener">this</a>* repository as it was create prior to combining my front-end and back-end workspaces.
 
-  ![Milestones](../drf-api/images/frontendimgs/milestones.png)
+  ![Milestones](images/frontendimgs/milestones.png)
 
   ## Permissions
 
@@ -733,51 +733,51 @@ When the user arrives onto the application they are greeted with the refreshing 
 
 On smaller devices the popular reviewers section will float to the top of the feed and the nav bar will collapse into hamburger menu fashion for responsivity.
 
-![Home Page](../drf-api/images/frontendimgs/Home%20Page.png)
-![Responsive Home Page](../drf-api/images/frontendimgs/responsive%20nav.png)
+![Home Page](images/frontendimgs/Home%20Page.png)
+![Responsive Home Page](images/frontendimgs/responsive%20nav.png)
 
 
 - ### Sign In Page
 
 Users that have already signed up can sign in through the simple form presented. As stated before, that aim of the platform is supposed to be easy and simple to use as everyone should be able to contribute and access beauty knowledge. I decided to add a simple, fresh and clean image to compliment the webpage and that compliments the colour scheme. Users that accidently navigate to this page can click the text link below the sign in for the urges users to sign up to quickly navigate the the sign up page.
 
-![Sign In Page](../drf-api/images/frontendimgs/Sign-In%20Page.png)
+![Sign In Page](images/frontendimgs/Sign-In%20Page.png)
 
 - ### Sign Up Page
 
 Users that wish to sign up can use this simple form to sign up, I also decided to add a simple, fresh and clean image to compliment the webpage and that compliments the colour scheme to the sign up page too.
 
-![Sign Up Page](../drf-api/images/frontendimgs/Sign-Up%20Page.png)
+![Sign Up Page](images/frontendimgs/Sign-Up%20Page.png)
 
 - ### Profile Page
 
 I kept the profile page simple too, users signed in and not signed in are able to see individuals profiles, this will include the profile owners name, chosen profile photo, number of posts, followers, following and their bio. Underneath this, users can expect to see posts made by the individual. The popular reviews section remains on the side of the page. Logged in users are able to edit their profile.
 
-![Profile Page](../drf-api/images/frontendimgs/Profile%20Page.png)
-![Edit Profile](../drf-api/images/frontendimgs/Edit%20Profile.png)
+![Profile Page](images/frontendimgs/Profile%20Page.png)
+![Edit Profile](images/frontendimgs/Edit%20Profile.png)
 
 - ### Signed In Home Page
 
 The differences seen here compared to the logged out user are the ability to like and comment on a post in addition to being able to follow and unfollow users. The ability to create a post will also appear in the nav bar.
-![Signed In Home Page](../drf-api/images/frontendimgs/Signed%20In%20Home%20Page.png)
+![Signed In Home Page](images/frontendimgs/Signed%20In%20Home%20Page.png)
 
 - ### Create Post
 
 Logged in users are able to create a post by navigating the the create post text in the nav bar, they'll be able to add a title, content and photo.
 
-![Create Post](../drf-api/images/frontendimgs/Create%20Post.png)
+![Create Post](images/frontendimgs/Create%20Post.png)
 
 - ### Edit Post
 
 Users will be able to edit their posts.
 
-![Edit Post](../drf-api/images/frontendimgs/Edit%20Post.png)
+![Edit Post](images/frontendimgs/Edit%20Post.png)
 
 - ### Comments
 
 Users will be able to comment and interact on posts. For instance, agreeing with reviews, stating if they've had alternative experiences or just simply giving further insight into the products or services being posted. Users can also like to show their support of simply unlike if they change their mind.
 
-![Comments](../drf-api/images/frontendimgs/Signed%20In%20Post%202.png)
+![Comments](images/frontendimgs/Signed%20In%20Post%202.png)
 
 [Back to top](#contents)
 
@@ -840,22 +840,22 @@ Users will be able to comment and interact on posts. For instance, agreeing with
 
 - ## Code Validation
 
-  ![JSX Compiler](../drf-api/images/frontendimgs/code%20testing.png)
+  ![JSX Compiler](images/frontendimgs/code%20testing.png)
 
 - ## Lighthouse Testing
 
 I am generally okay with the lighthouse results for each page however in future updates I will aim to increase the lighthouse performance score on mobiles.
 
-![Lighthouse 1](../drf-api/images/frontendimgs/lighthouse%201.png)
+![Lighthouse 1](images/frontendimgs/lighthouse%201.png)
 
-![Lighthouse 2](../drf-api/images/frontendimgs/lighthouse%202.png)
+![Lighthouse 2](images/frontendimgs/lighthouse%202.png)
 
 
 - ## Accessibility Testing
 
   - To ensure the webpage included suitable colour contrasts I used [a11y](https://color.a11y.com/Contrast/) to test if there was any conflicting contrast issues with the colours and found no errors.
 
-  ![a11y](../drf-api/images/frontendimgs/a11y.png)
+  ![a11y](images/frontendimgs/a11y.png)
 
   <br /><br />
 
@@ -864,7 +864,7 @@ I am generally okay with the lighthouse results for each page however in future 
   I've conducted responsive testing for desktop, tablet and mobile devices to ensure responsivity.
   <br /><br />
 
-  ![Responsive Testing](../drf-api/images/frontendimgs/responsivedesignchecker.png)
+  ![Responsive Testing](images/frontendimgs/responsivedesignchecker.png)
 
 
   <br />
