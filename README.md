@@ -1032,6 +1032,9 @@ My logo was created using [Wi Logo Maker](https://www.wix.com/createlogo6/logo-m
 [Back to top](#contents)
 
 
+# Acknowledgments
+
+I have thoroughly enjoyed developing this project eventhough it took me a while and I bumped into many mental and emotional blockages. I learnt so much about the entire development process in such a short amount of time. I hope to use this knowledge attained in the future and expand and build upon it.
 
 
 # Naifat 2023.
